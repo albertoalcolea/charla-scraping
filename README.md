@@ -6,11 +6,11 @@ Ficheros de ejemplo de la charla sobre scraping del Jacathón 2014
 
 Instalar dependencias
 ---------------------
-###[http://docs.python-requests.org/en/latest/](Requests)
+###[Requests](http://docs.python-requests.org/en/latest/)
 
     pip install requests
 
-###[http://www.crummy.com/software/BeautifulSoup/](Beautifulsoup)
+###[Beautifulsoup](http://www.crummy.com/software/BeautifulSoup/)
 
     pip install beautifulsoup4
 
