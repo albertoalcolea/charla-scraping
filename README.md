@@ -14,6 +14,13 @@ Instalar dependencias
 
     pip install beautifulsoup4
 
+###[Selenium](http://selenium-python.readthedocs.org/)
+
+    pip install selenium
+
+###[Phantomjs](http://phantomjs.org/)
+[How to install phantonjs?](http://phantomjs.org/build.html)
+
 
 Autor
 -----
