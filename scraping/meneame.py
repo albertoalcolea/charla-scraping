@@ -61,7 +61,6 @@ def run():
 					process_entry(entry)
 				page += 1
 				time.sleep(DELAY)
-				
 
 
 if __name__ == '__main__':

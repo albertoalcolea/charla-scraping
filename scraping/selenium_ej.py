@@ -23,5 +23,7 @@ items = driver.find_elements_by_class_name('autocomplete-suggestion')
 for item in items:
 	print item.text
 
+time.sleep(5)
+
 driver.quit()
 

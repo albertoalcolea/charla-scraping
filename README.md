@@ -21,6 +21,10 @@ Instalar dependencias
 ###[Phantomjs](http://phantomjs.org/)
 [How to install phantonjs?](http://phantomjs.org/build.html)
 
+[Django](https://www.djangoproject.com/) for server example
+
+    pip install django
+
 
 Autor
 -----
